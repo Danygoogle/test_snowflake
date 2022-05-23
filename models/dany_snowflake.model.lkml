@@ -11,5 +11,5 @@ include: "/views/invoice_lines.view.lkml"
 #}
 
 #persist_with: dany_snowflake_default_datagroup
-
+week_start_day: sunday
 explore: invoice_lines{}
